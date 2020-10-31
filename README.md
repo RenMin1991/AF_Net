@@ -1,7 +1,6 @@
 # AF-Net
 
-### Alignment Free and Distortion Robust Iris Recognition
-##### Min Ren, Caiyong Wang, Yunlong Wang, Zhenan Sun, Tieniu Tan
+This is the code of ICB paper [《Alignment Free and Distortion Robust Iris Recognition》](https://arxiv.org/pdf/1912.00382.pdf)
 
 ### Reqirements
 pytorch 0.4.1\
@@ -13,10 +12,11 @@ csv 1.0
 
 ### Trainning
 To run `train_vlad.py`.\
-Pre-trained model are saved in `checkpoint`.
+
 
 ### Feature Extraction
 To run `code_extraction.py`.\
+Pre-trained models can be found on [BaiduYunpan](https://pan.baidu.com/s/1620HU3c5UARTuCkdBFlG4w), code: jkae
 The features extracted are saved in `code`.
 
 ## Citation
