@@ -11,14 +11,12 @@ scipy 1.1.0\
 csv 1.0
 
 ### Trainning
-To run `train_vlad.py`.\
+To run `train_vlad.py`.
 
 
 ### Feature Extraction
 To run `code_extraction.py`.\
-
 Pre-trained models can be found on [BaiduYunpan](https://pan.baidu.com/s/1620HU3c5UARTuCkdBFlG4w), code: jkae\
-
 The features extracted are saved in `code`.\
 
 ## Citation
